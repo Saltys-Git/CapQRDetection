@@ -1,0 +1,7 @@
+streamlit
+opencv-contrib-python-headless
+firebase-admin==5.0.0
+google-cloud-firestore==2.1.0
+google-cloud-storage==1.37.1
+numpy==1.18.5
+Pyrebase==3.0.27
